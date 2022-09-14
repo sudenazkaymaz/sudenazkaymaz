@@ -28,7 +28,7 @@
 </a>
 </p>
 
-<h2 align="center">Languages & Frameworks</h2>
+<h2 align="center">Languages</h2>
 
 <p align="center">
   
