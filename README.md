@@ -4,11 +4,11 @@
 
 ### Ben Kimim
 - :computer:İstanbul Medipol Üniversitesi Yönetim Bilişim Sistemleri 2. sınıf öğrencisiyim.  
-- :computer:Developer olmak için çabalıyorum. 
+- :computer: Jr.Developer 
 - :computer:Kendimi her alanda geliştirmeye çalışıyorum. 
 - 📫 Bana ulaşmak isterseniz **sudenazkaymazz01@gmail.com** adresini kullanabilirsiniz. 
 
-***:computer:	DON'T REPEAT YOURSELF(KENDİNİ TEKRAR ETME)***
+
 <br>
 
 
