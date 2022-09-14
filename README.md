@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba   <img src="GIF/Hi.gif" width="40px" />, Ben Sudenaz Kaymaz </h1>
+<h1 align="center">Merhaba 👋, Ben Sudenaz Kaymaz </h1>
  <a target="_blank"><img align="left" height="400" width="400" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
 <br/>
 
