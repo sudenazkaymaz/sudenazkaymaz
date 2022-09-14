@@ -41,14 +41,7 @@
  <code><img height="40" width="40" src="https://i.pinimg.com/originals/9b/fc/ab/9bfcabbfd10b16693e622045fe6b812d.png"></code>
 </p>
 
-<h2 align="center">⚡ Database</h2>
 
-<p align="center">
-  
-<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png"></code>
-<code><img height="40" width="40" src="https://img.icons8.com/color/480/microsoft-sql-server.png"></code>
-
-</p>
 
 
 
