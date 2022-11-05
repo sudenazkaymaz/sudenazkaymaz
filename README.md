@@ -15,8 +15,7 @@
 
 
 
- <img height="110em" src="https://user-images.githubusercontent.com/74311713/129813126-5c620ff2-cc3b-47a2-b419-974708ceb5fe.png"/>
-
+ 
 
 </p>
 
